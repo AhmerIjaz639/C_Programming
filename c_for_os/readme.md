@@ -2,6 +2,14 @@
 
 A collection of C programs that demonstrate core Linux operating system concepts: processes, process creation, program execution, inter-process communication, and libraries. Each task has its own folder with source code and a detailed README.
 
+## Download
+
+All tasks, code and explanations are also available as a single PDF for offline revision.
+
+[![Download PDF](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge)](OS_Lab_Codes_Before_Mids.pdf?raw=true)
+
+Direct link: [OS_Lab_Codes_Before_Mids.pdf](OS_Lab_Codes_Before_Mids.pdf?raw=true)
+
 ## Repository Structure
 
 | Folder | Topic | Main System Calls / Tools |
